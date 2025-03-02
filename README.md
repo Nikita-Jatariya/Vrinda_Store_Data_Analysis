@@ -2,7 +2,7 @@
 ## Project Description
 This repository contains the analysis and visualization of the annual sales data for Vrinda Store for the year 2022. The primary objective of this project is to provide actionable insights into customer behavior, sales trends, and performance metrics to drive strategic decision-making for the years 2023 and 2024.
 
-## Porject Objectives
+## Project Objectives
 - Data Analysis: Perform exploratory data analysis (EDA) on the 2022 sales dataset to identify key trends, patterns, and anomalies.
 
 - Customer Insights: Analyze customer demographics, purchasing behavior, and preferences to understand the target audience better.
@@ -29,4 +29,12 @@ This repository contains the analysis and visualization of the annual sales data
 - Percentage of Total Orders delivered
 - Dashboard https://github.com/Nikita-Jatariya/Vrinda_Store_Data_Analysis/blob/main/Vrinda_Store%20_Dashboard.png
 
-## Process
+## Steps Involved
+- Overlook the entire data 
+- Data Verification and Cleaning: Missing Value Handling, Anomaly Detection and Resolution, Data Consistency and Standardization.
+- Pivot Table Creation: Sales Performance, Customer Demographics, Order Analysis.
+- Dashboard Creation: Created pivot tables for each analysis,Generated charts based on the pivot tables, Added slicers for interactive filtering, Organized all elements into a single dashboard sheet for ease of use.
+- Key Deliverables: Cleaned and verified dataset ready for analysis,Comprehensive pivot tables addressing key business questions, Interactive dashboard with dynamic filtering capabilities, Actionable insights to drive sales growth in 2023 and 2024.
+
+## Key Project Insights
+-
