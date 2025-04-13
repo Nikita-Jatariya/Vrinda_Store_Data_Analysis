@@ -33,7 +33,7 @@ This repository contains the analysis and visualization of the annual sales data
 - Key Deliverables: Cleaned and verified dataset ready for analysis,Comprehensive pivot tables addressing key business questions, Interactive dashboard with dynamic filtering capabilities, Actionable insights to drive sales growth in 2023 and 2024.
 
 ## Dashboard
-Vrinda_Store_Dashboard.png
+https://github.com/Nikita-Jatariya/Vrinda_Store_Data_Analysis/blob/main/Vrinda_Store_Dashboard.png
 
 ## Key Project Insights
 - Gender-Based Sales Distribution: Female customers exhibit a significantly higher purchasing propensity compared to male customers, contributing approximately 64% of the total sales volume.
