@@ -18,7 +18,7 @@ This repository contains the analysis and visualization of the annual sales data
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
 - What are different order status in 2022?
-- List top 10 states contributingto the sales?
+- List top 10 states contributing to the sales?
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
@@ -34,7 +34,6 @@ This repository contains the analysis and visualization of the annual sales data
 
 ## Dashboard
 ![Vrinda_Store _Dashboard](https://github.com/user-attachments/assets/037abb40-b82d-426a-8996-795c762ad537)
-
 
 ## Key Project Insights
 - Gender-Based Sales Distribution: Female customers exhibit a significantly higher purchasing propensity compared to male customers, contributing approximately 64% of the total sales volume.
